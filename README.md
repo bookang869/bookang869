@@ -1,7 +1,7 @@
 <h1 align="center">Hey, it's Kyle 👋</h1>
 
 <p align="center">
-  <strong>4th Year CS Student @ University of Washington | Aspiring Full-Stack Software Engineer</strong>
+  <strong>CS Student @ University of Washington | Aspiring Full-Stack Software Engineer</strong>
 </p>
 
 <p align="center">
